@@ -6,11 +6,11 @@ function Footer() {
 
       <h5>Contact</h5>
 
-      <p>Email : club@universite.ma</p>
+      <p>Email : aidev_communityfsbm@universite.ma</p>
 
       <p>Téléphone : 06 00 00 00 00</p>
 
-      <p>Instagram : @clubinfo</p>
+      <p>Instagram : aidev_communityfsbm</p>
 
     </footer>
   );

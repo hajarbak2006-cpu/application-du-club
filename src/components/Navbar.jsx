@@ -9,7 +9,7 @@ function Navbar() {
           width="50"
         />
         <span className="navbar-brand ms-2">
-          Club Informatique
+          Club Aidev_communityfsbm
         </span>
         <div className="navbar-nav ms-auto">
           <a className="nav-link" href="#members">
