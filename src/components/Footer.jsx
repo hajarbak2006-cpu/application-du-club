@@ -6,6 +6,7 @@ function Footer() {
       <p>Email :  <a href="mailto:aidevcommunityfsbm@gmail.com"> aidevcommunityfsbm@gmail.com</a></p>
       <p>Téléphone :<a href="tel:+212600000000"> +212 6 00 00 00 00</a></p>
       <p>Instagram : <a href="https://www.instagram.com/aidev_communityfsbm?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer">aidevcommunityfsbm</a></p>
+      <p>© 2026 Aidev_communityfsbm</p>
     </footer>
   );
 }
